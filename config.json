@@ -1,8 +1,8 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "6281331184338",
+   "owner_name": "breaksek",
    "database": "data",
-   "limit": 15,
+   "limit": 5,
    "ram_limit": "900mb",
    "max_upload": 50,
    "max_upload_free": 10,
@@ -16,7 +16,7 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 6285819846892
+      "number": 6281232284882
    },
    "replit_url": ""
 }
